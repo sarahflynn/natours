@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahflynn/natours.git"
+  },
+  "author": "Sarah Flynn <sflynn.pdx@gmail.com> (https://github.com/sarahflynn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahflynn/natours/issues"
+  },
+  "homepage": "https://github.com/sarahflynn/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
