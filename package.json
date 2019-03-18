@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sarahflynn/natours#readme",
   "devDependencies": {
+    "eslint": "^5.15.2",
     "node-sass": "^4.11.0"
   }
 }
